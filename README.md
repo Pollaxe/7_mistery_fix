@@ -1,7 +1,7 @@
 # Решатель квадратных уравнений
 
-Функция для решения квадратных уравнений. ![Формула](https://wikimedia.org/api/rest_v1/media/math/render/svg/24c2ce44ca552049d96088988f5d83f6763c059a)
-Ссылка на описание квадратного уравнения: https://wikimedia.org/api/rest_v1/media/math/render/svg/23e70cfa003f402d108ec04d97983fb62f69536e
+Функция для решения квадратных уравнений. ![Формула](https://wikimedia.org/api/rest_v1/media/math/render/svg/23e70cfa003f402d108ec04d97983fb62f69536e)
+Ссылка на описание квадратного уравнения в википедии: https://wikimedia.org/api/rest_v1/media/math/render/svg/23e70cfa003f402d108ec04d97983fb62f69536e
 
 # Как использовать
 
